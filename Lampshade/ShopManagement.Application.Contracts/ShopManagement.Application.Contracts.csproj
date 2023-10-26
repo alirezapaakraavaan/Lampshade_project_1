@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="ProductPicture\" />
     <Folder Include="ProductCategory\" />
   </ItemGroup>
 
