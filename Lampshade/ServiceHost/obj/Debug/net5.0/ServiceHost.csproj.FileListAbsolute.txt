@@ -33,7 +33,6 @@ D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\M
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Identity.Client.dll
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
@@ -181,3 +180,8 @@ D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\R
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Edit.cshtml.g.cs
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Index.cshtml.g.cs
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_Menu.cshtml.g.cs
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\01_Lampshade1Query.dll
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\01_Lampshade1Query.pdb
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Slider\Default.cshtml.g.cs
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
