@@ -15,7 +15,7 @@ namespace ServiceHost.ViewComponents
         public IViewComponentResult Invoke()
         {
             var slides = _slideQuery.GetSlides();
-            return View(slides);
+            return View("Default", slides);
         }
     }
 }

@@ -185,3 +185,17 @@ D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\0
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Slider\Default.cshtml.g.cs
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategory\Default.cshtml.g.cs
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.dll
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Configuration.dll
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Domain.dll
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Configuration.pdb
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.pdb
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Define.cshtml.g.cs
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Edit.cshtml.g.cs
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Discounts\CustomerDiscounts\Index.cshtml.g.cs
