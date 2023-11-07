@@ -25,12 +25,10 @@ namespace ShopManagement.Infrastructure.EFCore
                 Id = x.Id,
                 Name = x.Name,
                 ProductCategoryName = x.ProductCategory.Name,
-                UnitPrice = x.UnitPrice,
                 Code = x.Code,
                 Picture = x.Picture,
                 ProductCategoryId = x.CategoryId,
-                IsInStock = x.IsInStock,
-                CreationDate = x.CreationDate.ToFarsi()
+                CreationDate = x.CreationDate.ToFarsi(),
             });
 
             if (!string.IsNullOrEmpty(searchModel.Name))
@@ -61,7 +59,6 @@ namespace ShopManagement.Infrastructure.EFCore
                 Keywords = x.Keywords,
                 MetaDescription = x.MetaDescription,
                 Description = x.Description,
-                UnitPrice = x.UnitPrice
             }).FirstOrDefault(x => x.Id == id);
         }
 

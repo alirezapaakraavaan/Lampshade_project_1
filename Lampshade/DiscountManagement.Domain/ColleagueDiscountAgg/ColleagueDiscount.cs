@@ -12,7 +12,7 @@ namespace DiscountManagement.Domain.ColleagueDiscountAgg
         {
             ProductId = productId;
             DiscountRate = discountRate;
-            IsRemoved = false
+            IsRemoved = false;
         }
 
         public void Edit(long productId, int discountRate)

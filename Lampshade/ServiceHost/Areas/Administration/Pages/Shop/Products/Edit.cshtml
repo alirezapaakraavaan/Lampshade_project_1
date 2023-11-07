@@ -32,13 +32,6 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="form-group">
-                    <label asp-for="UnitPrice" class="control-label">قیمت محصول</label>
-                    <input class="form-control" asp-for="UnitPrice">
-                    <span asp-validation-for="UnitPrice" class="error"></span>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="form-group">
                     <label asp-for="CategoryId" class="control-label">گروه محصول</label>
                     <select class="form-control" asp-for="CategoryId"
                             asp-items='new SelectList(Model.ProductCategories, "Id", "Name")'>
@@ -47,9 +40,7 @@
                     <span asp-validation-for="CategoryId" class="error"></span>
                 </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-6">
                 <div class="form-group">
                     <label asp-for="Picture" class="control-label">عکس</label>
                     <input type="text" class="form-control" asp-for="Picture">
@@ -67,7 +58,7 @@
             </div>
             <div class="col-md-6">
                 <div class="form-group">
-                    <label asp-for="PictureTitle" class="control-label">عنوان</label>
+                    <label asp-for="PictureTitle" class="control-label">عنوان عکس</label>
                     <input type="text" class="form-control" asp-for="PictureTitle">
                     <span asp-validation-for="PictureTitle" class="error"></span>
                 </div>
