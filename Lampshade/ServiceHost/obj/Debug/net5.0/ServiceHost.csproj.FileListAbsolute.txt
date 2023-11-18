@@ -218,3 +218,8 @@ D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\R
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Increase.cshtml.g.cs
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Reduce.cshtml.g.cs
 D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\OperationLog.cshtml.g.cs
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategoryWithProducts\Default.cshtml.g.cs
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\LatestArrivals\Default.cshtml.g.cs
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ProductCategory.cshtml.g.cs
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Footer\Default.cshtml.g.cs
+D:\PROGRAMING\C#\Core\Lamp Shade 1\Code\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Menu\Default.cshtml.g.cs

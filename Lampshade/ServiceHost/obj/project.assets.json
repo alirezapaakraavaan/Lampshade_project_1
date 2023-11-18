@@ -2323,6 +2323,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "DiscountManagement.Infrastructure.EFCore": "1.0.0",
+          "InventoryManagement.Infrastructure.EFCore": "1.0.0",
           "ShopManagement.Infrastructure.EFCore": "1.0.0"
         },
         "compile": {
@@ -7761,6 +7763,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "01_Lampshade1Query >= 1.0.0",
       "0_Framework >= 1.0.0",
       "DiscountManagement.Configuration >= 1.0.0",
       "InventoryManagement.Application.Contract >= 1.0.0",
@@ -7798,6 +7801,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\01_Lampshade1Query\\01_Lampshade1Query.csproj": {
+              "projectPath": "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\01_Lampshade1Query\\01_Lampshade1Query.csproj"
+            },
             "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
               "projectPath": "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
             },

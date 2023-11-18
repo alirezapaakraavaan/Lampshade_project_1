@@ -28,6 +28,12 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
+              },
+              "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj"
+              },
               "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
                 "projectPath": "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
               }
@@ -821,6 +827,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\01_Lampshade1Query\\01_Lampshade1Query.csproj": {
+                "projectPath": "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\01_Lampshade1Query\\01_Lampshade1Query.csproj"
+              },
               "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\0_Framework\\0_Framework.csproj": {
                 "projectPath": "D:\\PROGRAMING\\C#\\Core\\Lamp Shade 1\\Code\\Lampshade\\0_Framework\\0_Framework.csproj"
               },
